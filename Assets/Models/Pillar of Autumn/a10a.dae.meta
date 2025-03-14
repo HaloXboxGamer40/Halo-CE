@@ -12,6 +12,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: cryo_glass
+    second: {fileID: 2100000, guid: 7f57c822b666742d1b2e3bfc31f572a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: detail_strips
     second: {fileID: 2100000, guid: c9b8cd98bc6324560acbc801b19f8b36, type: 2}
   - first:
@@ -23,12 +28,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: flourescent_flicker
-    second: {fileID: 2100000, guid: 6dda4aa0beaac43c1b108e4717605d17, type: 2}
+    second: {fileID: 2100000, guid: f85b5d3721acc46318738d60c5e5f064, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: flourescent_off
-    second: {fileID: 2100000, guid: 6dda4aa0beaac43c1b108e4717605d17, type: 2}
+    second: {fileID: 2100000, guid: f85b5d3721acc46318738d60c5e5f064, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -38,7 +43,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: halogen_on
-    second: {fileID: 2100000, guid: 6dda4aa0beaac43c1b108e4717605d17, type: 2}
+    second: {fileID: 2100000, guid: f85b5d3721acc46318738d60c5e5f064, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
