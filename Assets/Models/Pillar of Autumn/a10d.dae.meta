@@ -3,7 +3,112 @@ guid: 955fac01323164788b692afe6e7967f8
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alpha_test
+    second: {fileID: 2100000, guid: efbe18ad6d68e47a1aa2f0b9463dd85d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c_board_floor
+    second: {fileID: 2100000, guid: 73d1ada5cc16e4e20b405c2e837e10a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c_board_light
+    second: {fileID: 2100000, guid: 73d1ada5cc16e4e20b405c2e837e10a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c_board_wall
+    second: {fileID: 2100000, guid: 73d1ada5cc16e4e20b405c2e837e10a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: detail_strips
+    second: {fileID: 2100000, guid: c9b8cd98bc6324560acbc801b19f8b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flourescent
+    second: {fileID: 2100000, guid: f85b5d3721acc46318738d60c5e5f064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flourescent_flicker
+    second: {fileID: 2100000, guid: f85b5d3721acc46318738d60c5e5f064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flourescent_off
+    second: {fileID: 2100000, guid: f85b5d3721acc46318738d60c5e5f064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: halogen_off
+    second: {fileID: 2100000, guid: f85b5d3721acc46318738d60c5e5f064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hazard_light_off
+    second: {fileID: 2100000, guid: 6dda4aa0beaac43c1b108e4717605d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_generic
+    second: {fileID: 2100000, guid: a7e1ffe8710a64637ae98005abc6e5a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_scuff
+    second: {fileID: 2100000, guid: 87c1addf7b1604f48b1916f07bf2c5c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_strip
+    second: {fileID: 2100000, guid: 0be0390786c844c1884facb8bd0bcbb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panels_airlock
+    second: {fileID: 2100000, guid: 7ec1408e649d74d42b69257140ac7b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes
+    second: {fileID: 2100000, guid: c9b8cd98bc6324560acbc801b19f8b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poaa
+    second: {fileID: 2100000, guid: de888de0c1df24b8e8de07122a16e8d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_light_dim
+    second: {fileID: 2100000, guid: 6dda4aa0beaac43c1b108e4717605d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel
+    second: {fileID: 2100000, guid: b64fe3295fcb643c09d0265007aa86e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tech_rack_mount
+    second: {fileID: 2100000, guid: 3b23628b2632845c1bc3aa7917421f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tech_rack_plate
+    second: {fileID: 2100000, guid: 6976485e7ae014c91bc4296148c3a421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vending_machine
+    second: {fileID: 2100000, guid: b489555bb209a42438a536522eca9e47, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
