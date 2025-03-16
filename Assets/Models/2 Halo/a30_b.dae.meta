@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 7c04ec02743934337beb06dac5875061
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a30light_bright_overhead
+    second: {fileID: 2100000, guid: db63ffba4e3c1486f8a299ff8598e552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a30light_bright_white
+    second: {fileID: 2100000, guid: db63ffba4e3c1486f8a299ff8598e552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a30light_dim_blue
+    second: {fileID: 2100000, guid: fa09ede0d2f8f4da0bf5aade4a53f998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a30lightbrighter
+    second: {fileID: 2100000, guid: db63ffba4e3c1486f8a299ff8598e552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alpha_grate
+    second: {fileID: 2100000, guid: c73bf673450f64a0daab479e9b11d370, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cell02_ground
+    second: {fileID: 2100000, guid: 11f33b7e0fb5649f1b2c0b31f57018e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cell02_ground_highland
+    second: {fileID: 2100000, guid: 11f33b7e0fb5649f1b2c0b31f57018e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cell02_riverbed
+    second: {fileID: 2100000, guid: c72a9b52e445f4db0a84883af9ffccc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cliff_rock
+    second: {fileID: 2100000, guid: 539717f907a2545ed9ef1e8e35787409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cliff_rock_fallen
+    second: {fileID: 2100000, guid: 4683abb39399c4523aa94ede9eccd300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cliff_rock_tiled
+    second: {fileID: 2100000, guid: c895a546e21f44808a61ecea79c52eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_large_bright
+    second: {fileID: 2100000, guid: db63ffba4e3c1486f8a299ff8598e552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_large_thin_dim
+    second: {fileID: 2100000, guid: db63ffba4e3c1486f8a299ff8598e552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_pin_bright
+    second: {fileID: 2100000, guid: db63ffba4e3c1486f8a299ff8598e552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_flat_generic
+    second: {fileID: 2100000, guid: cf9737531719e49ce9f8deb0fee7c4b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_panels_ext_unearthed
+    second: {fileID: 2100000, guid: dcf292d555e88443ab9aff4e58d61cc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_panels_generator
+    second: {fileID: 2100000, guid: d39490603791f4a1caabd8ff1e74bd0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_panels_generic_ext
+    second: {fileID: 2100000, guid: 7a996c8c944114069b2770d7a38f38af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_plate_floor
+    second: {fileID: 2100000, guid: 9d7f4d2428a9b4c51a05596b131951f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_plate_floor_ext
+    second: {fileID: 2100000, guid: 19a0c434978aa4463a4e3a7d46e4f382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_narrow
+    second: {fileID: 2100000, guid: 7c2c54e1b8e264ce48b487a457d353c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_narrow_ext
+    second: {fileID: 2100000, guid: 3416dd749e2d94888af64706e707eec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_wide
+    second: {fileID: 2100000, guid: 6a6a4bf350b8b4d628a5b07102dd8fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_wide_a
+    second: {fileID: 2100000, guid: 832350caa98174078868216b2b6ee6e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: river_a
+    second: {fileID: 2100000, guid: 4396a36892389478d95f1bb9c4e98b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: river_b
+    second: {fileID: 2100000, guid: 9dce04b7ccbca43d7a1c7f48671d60fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: river_c
+    second: {fileID: 2100000, guid: 9d0e70687336642aa805b72a89ea9ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: river_central_hub
+    second: {fileID: 2100000, guid: c72a9b52e445f4db0a84883af9ffccc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: river_falls_start
+    second: {fileID: 2100000, guid: 4b446d1eed4c74034b9ecdd7404c4231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_filler
+    second: {fileID: 2100000, guid: 403b616c1501d430786cc0bac7b43f4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treesclump_filler
+    second: {fileID: 2100000, guid: 263bfc088d5bb47d39c0548415b89124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tubes_ext
+    second: {fileID: 2100000, guid: 06954cf3e72db4f47a7fb2a1aad536a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waterfall_cliff
+    second: {fileID: 2100000, guid: 4b446d1eed4c74034b9ecdd7404c4231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waterfall_start
+    second: {fileID: 2100000, guid: c3e776a5f982948f7961a643f6d6d1cf, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

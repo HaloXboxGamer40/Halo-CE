@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 70d2104840bc34e3f9ffa757d1860c35
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alpha_grate
+    second: {fileID: 2100000, guid: 6e06b6a84a1a14d03925b8f79c98044d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beach
+    second: {fileID: 2100000, guid: 4d23fdd7738c14d8ab49f0591c84aebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cliffs
+    second: {fileID: 2100000, guid: 6631288189aae40e8a8957469f3b2135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: decorative_wide_circle
+    second: {fileID: 2100000, guid: f265ae441534042b8ba39cf2e42cdf6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_floor
+    second: {fileID: 2100000, guid: 7b4095fe658e54ca1ba1e8019b92f123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_floor_mirror
+    second: {fileID: 2100000, guid: f78e922fec88c4004af1218eb907f8de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glow_tech
+    second: {fileID: 2100000, guid: e3f7ae41bc0124c539820d600e890701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_bright_overhead
+    second: {fileID: 2100000, guid: e3f7ae41bc0124c539820d600e890701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_bright_white
+    second: {fileID: 2100000, guid: e3f7ae41bc0124c539820d600e890701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_dim_blue
+    second: {fileID: 2100000, guid: e3f7ae41bc0124c539820d600e890701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_dim_white
+    second: {fileID: 2100000, guid: e3f7ae41bc0124c539820d600e890701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_pin_bright
+    second: {fileID: 2100000, guid: e3f7ae41bc0124c539820d600e890701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_flat_generic
+    second: {fileID: 2100000, guid: febcf53e14b9542dabfd7785c1029f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_panels_ext_unearthed
+    second: {fileID: 2100000, guid: 55404944a9d234bc7bfcbed98afe0ac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_panels_generator
+    second: {fileID: 2100000, guid: 38ffaab628c254448b31be725e122165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_panels_generic
+    second: {fileID: 2100000, guid: 5fd614d3120eb4e7d9d20ff46d0aa593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_panels_generic_ext
+    second: {fileID: 2100000, guid: 80c1c9ff1b01e47d59c7a24fbc961ad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_panels_generic_ext_clean
+    second: {fileID: 2100000, guid: 0e5a8cdc8dcff40a38c6aa40622ad1af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_plate_floor
+    second: {fileID: 2100000, guid: 30a5a05e5c2474e62a07c22c43945379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_plate_floor_ext
+    second: {fileID: 2100000, guid: c665ae9cf23864389a7a2ffe62d82f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_decorative_narrow
+    second: {fileID: 2100000, guid: dce2943dc294f4620a32b5375d651083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_decorative_wide
+    second: {fileID: 2100000, guid: f1d10031801cb4c1aa4708e32e5e2bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_narrow
+    second: {fileID: 2100000, guid: bccc3fd4a56ca4421ac75628dc6b1a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_narrow_ext
+    second: {fileID: 2100000, guid: b6b0d21a6c6b44c5e8c8f36192d3c745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_wide
+    second: {fileID: 2100000, guid: ebc2c06b68de547c4b90071f1d9f5e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_wide_a
+    second: {fileID: 2100000, guid: c6f769cd85dba4b859ac483b0280e69f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tech_dense_circuits
+    second: {fileID: 2100000, guid: 9c6e0a08aaea44e17acda78462f60bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: underwater
+    second: {fileID: 2100000, guid: a1f310d8a3f2f4725b2a40cf727a7c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: b71561d8bf2cc4b998609c6fdeb90763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waves
+    second: {fileID: 2100000, guid: b71561d8bf2cc4b998609c6fdeb90763, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

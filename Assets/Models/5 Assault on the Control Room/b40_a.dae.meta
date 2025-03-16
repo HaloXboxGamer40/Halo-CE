@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: ae4ec0749c6e049d392766896428df71
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_bridgeramp
+    second: {fileID: 2100000, guid: 3370a2a5e2a51465980c852c538b8260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_bridgeramp_mid
+    second: {fileID: 2100000, guid: a220bf60d65d04779a41ebf15564d7a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_cliff_cmap
+    second: {fileID: 2100000, guid: 602d2541b78f94c258578f7de7682e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_cliff_ice
+    second: {fileID: 2100000, guid: de1ca2a1cbe0b437bb3c720768c6dcb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_cliff_ladder
+    second: {fileID: 2100000, guid: e30f7adc81177435aaca993c5ba72ebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_cliff_snow
+    second: {fileID: 2100000, guid: 7bf291cfa4bd44af9b3249e31423d155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_cliff_wall
+    second: {fileID: 2100000, guid: 7f859581f8111480b8d597dfbdf8f252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_cliffmetal
+    second: {fileID: 2100000, guid: 8282fa2422539463bb65e230594368dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_crevlight
+    second: {fileID: 2100000, guid: 05ca335b455eb4f0fbe0ba1efd27c3ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_ctrlglass
+    second: {fileID: 2100000, guid: d97cc454e9ad74461ab7c896fc678e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_energyrope
+    second: {fileID: 2100000, guid: 1541d933c4f7d45f88740ce24268fefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_flashlight
+    second: {fileID: 2100000, guid: d3c555dada0de4a3eb253ba93e17a027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_generator_broken
+    second: {fileID: 2100000, guid: 525a2898c94a547d29d9f4ecf8208bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_invisconelight
+    second: {fileID: 2100000, guid: d97cc454e9ad74461ab7c896fc678e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_light_blue
+    second: {fileID: 2100000, guid: d3c555dada0de4a3eb253ba93e17a027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_light_blueb
+    second: {fileID: 2100000, guid: d3c555dada0de4a3eb253ba93e17a027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_light_yellow
+    second: {fileID: 2100000, guid: d3c555dada0de4a3eb253ba93e17a027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_metal_panels_generator
+    second: {fileID: 2100000, guid: 525a2898c94a547d29d9f4ecf8208bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_metal_plate_floor_ext
+    second: {fileID: 2100000, guid: 1bcb7a635fa6b4a6f91980c8013c640e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_metal_strips_narrow_ext
+    second: {fileID: 2100000, guid: 12da45cc5f72640e4a206d06d03d9ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_panels_generic_ext
+    second: {fileID: 2100000, guid: 186cacdef311042448ceaf999f9b5e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b40_pitlights
+    second: {fileID: 2100000, guid: d3c555dada0de4a3eb253ba93e17a027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_floor
+    second: {fileID: 2100000, guid: d3c12c660b9a14e87b4559eaa2a77fd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_flat_generic
+    second: {fileID: 2100000, guid: 36ccc9e01bb3c4be0afba39dad1045b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_plate_floor
+    second: {fileID: 2100000, guid: 1b1e233b438c7491e97755ade49fcac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_narrow
+    second: {fileID: 2100000, guid: 1bcb7a635fa6b4a6f91980c8013c640e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_wide
+    second: {fileID: 2100000, guid: e787331764bed4e37aae6da6ac9e4c3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_strips_wide_a
+    second: {fileID: 2100000, guid: 07c7bef89c63a415a8ced7da672fc3f1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
