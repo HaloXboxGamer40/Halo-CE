@@ -17,6 +17,10 @@ public class CutsceneController : MonoBehaviour
 
     public GameObject skipText;
 
+    public GameObject bg;
+    public GameObject bgimg;
+    public GameObject audio;
+
     public bool skipCutscene;
 
     void Start()
@@ -57,6 +61,11 @@ public class CutsceneController : MonoBehaviour
             map.SetActive(true);
 
             player.SetActive(true);
+        } else {
+            bg.SetActive(true);
+
+            bgimg.SetActive(true);
+            audio.SetActive(true);
         }
         // Destroy the VideoPlayer GameObject (if it is separate)
         Destroy(gameObject);
