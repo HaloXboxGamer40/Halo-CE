@@ -30,6 +30,10 @@ public class CutsceneController : MonoBehaviour
 
         if (skipCutscene)
             StartCoroutine(skipTextCode());
+
+        skipText.SetActive(false);
+        cutsceneCam.SetActive(true);
+        player.SetActive(false);
     }
 
     void Update()
@@ -54,7 +58,9 @@ public class CutsceneController : MonoBehaviour
         videoPlayer.Stop();
 
         // Hide the cutsceneCam GameObject
-        Destroy(cutsceneCam);
+        cutsceneCam.SetActive(false);
+
+        skipText.SetActive(false);
 
         // Show the map GameObject
         if (skipCutscene) {
